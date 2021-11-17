@@ -21,14 +21,10 @@ Dependencie installation for Arch Linux: sudo pacman -S mdk3 macchanger pwgen
 
 Instalation and usage
 
-1. Download the files git clone https://github.com/rareblack35/wifispam.git
+1. Download the files 
+2. git clone https://github.com/rareblack35/wifispam.git
+3. sudo bash install.sh 
+4. sudo bash wifispam.sh
 
-2. Dependencie instalation
-
-2.1 Method 1 run the install.sh file AS ROOT
-
-2.2 Method 2 Manualy add sources and install packages listed above
-
-3. Run the script sudo wifispam.sh
 
 
