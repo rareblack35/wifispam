@@ -33,7 +33,7 @@ nmcli device connect $AD > /dev/null 2>&1
 clear
 title
 echo -e "$BOLD_PURPLE  Thanks for using this script"
-echo -e "   My GitHub:$BOLD_WHITE https://github.com/125K"
+echo -e "   My GitHub:$BOLD_WHITE https://github.com/rareblack35"
 exit
 }
 
